@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Limitz&#39;s BLOG</title>
+  
+  <subtitle>记得给我的世界加上故事与咖啡.</subtitle>
+  <link href="https://blog.limitz.top/atom.xml" rel="self"/>
+  
+  <link href="https://blog.limitz.top/"/>
+  <updated>2025-09-06T06:35:59.400Z</updated>
+  <id>https://blog.limitz.top/</id>
+  
+  <author>
+    <name>LimitZ</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://blog.limitz.top/2025/cmf7vuqlf000040tv5mgkds09"/>
+    <id>https://blog.limitz.top/2025/cmf7vuqlf000040tv5mgkds09</id>
+    <published>2025-09-06T06:23:15.865Z</published>
+    <updated>2025-09-06T06:35:59.400Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome you,my friend.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome you,my friend.&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
